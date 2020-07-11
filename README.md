@@ -10,6 +10,8 @@
 
 🌐 My website is [zoroark.guru](https://zoroark.guru), although there isn't really much happening on there.
 
+💬 You can send me a message on Telegram [@utybo](https://t.me/utybo) if you want to chat about something (I may be a bit slow to respond, sorry!)
+
 <!--
 **utybo/utybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
