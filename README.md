@@ -1,7 +1,8 @@
 ## Hi !
 
 <img height="48" src="https://zoroark.guru/favicon.png" alt="profile picture">
-:wave: I'm Matthieu, a French CS student at [EPITA](https://www.epita.fr/en/). I go by "utybo" or "Zoroark" online. I started coding by making (crappy) Minecraft mods in Java and went on from there. I primarily value painlessness and ease of use without sacrificing on performance. A fast system is worthless if no one can figure out how to use it ! :smile:
+
+:wave: I'm Matthieu, a French CS student at [EPITA](https://www.epita.fr/en). I go by "utybo" or "Zoroark" online. I started coding by making (crappy) Minecraft mods in Java and went on from there. I primarily value painlessness and ease of use without sacrificing on performance. A fast system is worthless if no one can figure out how to use it ! :smile:
 
 👨‍🎓 I study C at school and code in Kotlin in my free time. I also know a thing or two about Java. I am currently an ACDC (Assistant C Dièse Caml, OCaml and C Sharp teaching assistant) at EPITA.
 
