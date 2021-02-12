@@ -1,4 +1,4 @@
-## Hi !
+## Hi!
 
 <img height="48" src="https://zoroark.guru/favicon.png" alt="profile picture">
 
