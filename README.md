@@ -6,9 +6,9 @@
 
 :wave: I'm Matthieu, a French CS student at [EPITA](https://www.epita.fr/en). I go by "utybo" or "Zoroark" online. I started coding by making (crappy) Minecraft mods in Java and went on from there. I primarily value painlessness and ease of use without sacrificing on performance. A fast system is worthless if no one can figure out how to use it ! :smile:
 
-👨‍🎓 I study C at school and code in Kotlin in my free time. I also know a thing or two about Java. I am currently an ACDC (Assistant C Dièse Caml, OCaml and C Sharp teaching assistant) at EPITA.
+👨‍🎓 I study C, C++, Java, Python and C# at school and code in Kotlin in my free time. I was a teaching assistant (ACDC, Assistant C Dièse Caml, OCaml and C Sharp teaching assistant) at EPITA.
 
-🛠 My biggest project yet is **[EpiLink](https://epilink.zoroark.guru)** ([repo](https://github.com/EpiLink/EpiLink)), a web service for authenticating Discord users on chat servers based on their Microsoft/Office 365 accounts, which we currently use for all of the (somewhat-official-but-not-really) EPITA Discord servers. I also [experiment](https://github.com/utybo/Lixy) with [other](https://github.com/utybo/Pangoro) Kotlin-ish [things](https://github.com/utybo/ktor-rate-limit). You will also find [SCFE](https://github.com/utybo/scfe) on my profile, a console-based file explorer.
+🛠 My biggest project yet is **[EpiLink](https://epilink.zoroark.guru)** ([repo](https://github.com/EpiLink/EpiLink)), a web service for authenticating Discord users on chat servers based on their Microsoft/Office 365/OpenID Connect accounts, which we currently use for all of the (somewhat-official-but-not-really) EPITA Discord servers. I also [experiment](https://github.com/utybo/Lixy) with [other](https://github.com/utybo/Pangoro) [Kotlin](https://github.com/utybo/Shedinja)-[ish](https://github.com/utybo/Servine) [things](https://github.com/utybo/ktor-rate-limit). You will also find [SCFE](https://github.com/utybo/scfe) on my profile, a console-based file explorer.
 
 🌐 My website is [zoroark.guru](https://zoroark.guru), although there isn't really much happening on there.
 
