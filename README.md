@@ -1,8 +1,10 @@
+**I am currently looking for an end-of-studies internship in back-end engineering starting February 2023!** You can contact me on [LinkedIn](https://linkedin.com/in/mstmb). My CV (in French) is available [here](https://www.linkedin.com/posts/mstmb_cv-activity-6990977851281842176-05oI?utm_source=share&utm_medium=member_desktop).
+
+----
+
 ## Hi!
 
 <img height="48" src="https://zoroark.guru/favicon.png" alt="profile picture">
-
-✨ **I have a new Twitter account!** Go follow that one: [@zrdev](https://twitter.com/zrdev).
 
 :wave: I'm Matthieu, a French CS student at [EPITA](https://www.epita.fr/en). I go by "utybo" or "Zoroark" online. I started coding by making (crappy) Minecraft mods in Java and went on from there. I primarily value painlessness and ease of use without sacrificing on performance. A fast system is worthless if no one can figure out how to use it ! :smile:
 
