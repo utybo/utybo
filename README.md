@@ -1,7 +1,3 @@
-**I am currently looking for an end-of-studies internship in back-end engineering starting February 2023!** You can contact me on [LinkedIn](https://linkedin.com/in/mstmb). My CV (in French) is available [here](https://www.linkedin.com/posts/mstmb_cv-activity-6990977851281842176-05oI?utm_source=share&utm_medium=member_desktop).
-
-----
-
 ## Hi!
 
 <img height="48" src="https://zoroark.guru/favicon.png" alt="profile picture">
