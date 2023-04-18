@@ -13,5 +13,6 @@
 💬 You can send me a message on Telegram [@utybo](https://t.me/utybo) if you want to chat about something (I may be a bit slow to respond, sorry!)
 
 [![Donation using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/utybo/donate)
-
+<!--
 [![utybo's github stats](https://github-readme-stats.vercel.app/api?username=utybo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utybo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
